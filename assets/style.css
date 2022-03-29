@@ -1,7 +1,12 @@
 /* HEADER */
 
 .cg-top-header{
+    height: 30px;
     background-color: black;
+}
+
+.cg-top-header img{
+    width: 60px;
 }
 
 .cg-btn-black{
