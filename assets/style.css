@@ -44,3 +44,14 @@
 .cg-bottom-jumbo .container .row .col .card:hover{
     transform: translateY(-5px);
 }
+
+/* PLAY-FIVE */
+
+.cg-top-play-five h6{
+    color: #0172CD;
+}
+
+.cg-play-five .cg-top-play-five p,
+.cg-play-five .cg-bottom-play-five p{
+    color: #858585;
+}
