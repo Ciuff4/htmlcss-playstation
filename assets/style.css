@@ -75,10 +75,20 @@
     color: white;
 }
 
+.cg-new-games-main{
+    color: white;
+    background-color: #1F1F1F;
+}
+
 .cg-new-games-jumbo .container .cg-container img{
     width: 70%;
 }
 
 .cg-new-games-jumbo .container .cg-container h2{
     padding: 25px 0;
+}
+
+.game img{
+    width: 100%;
+    border-radius: 10px;
 }
