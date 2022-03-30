@@ -4,4 +4,8 @@
     .cg-top-jumbo .container .cg-container{
         width: 40%;
     }
+
+    .cg-new-games-jumbo .container .cg-container{
+        width: calc(100% / 3);
+    }
 }

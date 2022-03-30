@@ -65,3 +65,20 @@
 .cg-gadget.active{
     border-bottom: 1px solid #4196DA;
 }
+
+/* NEW-GAMES */
+
+.cg-new-games-jumbo{
+    background-image: url(./img/it-takes-two-hero-banner-desktop.jpg);
+    background-position: center;
+    background-size: cover;
+    color: white;
+}
+
+.cg-new-games-jumbo .container .cg-container img{
+    width: 70%;
+}
+
+.cg-new-games-jumbo .container .cg-container h2{
+    padding: 25px 0;
+}
