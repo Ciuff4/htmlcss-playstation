@@ -22,3 +22,8 @@
     overflow: hidden;
     margin-top: 20px;
 }
+
+
+.bug{
+    background-color: rgba(255, 0, 0, 0.356);
+}
