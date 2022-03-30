@@ -8,4 +8,12 @@
     .cg-new-games-jumbo .container .cg-container{
         width: calc(100% / 3);
     }
+
+}
+
+
+@media screen and ( max-width:767px ) {
+    .cg-text-play-plus{
+        width: 100%;
+    }
 }

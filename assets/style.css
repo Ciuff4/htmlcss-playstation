@@ -92,3 +92,19 @@
     width: 100%;
     border-radius: 10px;
 }
+
+/* PLAY-FOUR */
+
+.cg-play-four-card img{
+    width: 100%;
+}
+
+/* PLAY-PLUS */
+
+.cg-play-plus{
+    background-color: #BEBCBB;
+}
+
+.cg-text-play-plus img{
+    width: 60%;
+}
