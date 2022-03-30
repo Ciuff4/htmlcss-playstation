@@ -3,3 +3,9 @@
     color: white;
     border-radius: 20px;
 }
+
+.card{
+    border-radius: 10px;
+    overflow: hidden;
+    margin-top: 20px;
+}
