@@ -12,3 +12,25 @@
 .cg-btn-black{
     background-color: #363636;
 }
+
+/* JUMBOTRON */
+
+.cg-top-jumbo{
+    background-image: url(./img/jumbo-bg.png);
+    background-position: center;
+    background-size: cover;
+}
+
+.cg-top-jumbo .cg-container{
+    padding-top: 20%;
+    padding-bottom: 10px;
+    color: white;
+}
+
+.cg-top-jumbo .cg-container .container img{
+    width: 80%;
+}
+
+.cg-btn-orange{
+    background-color: #CD3D0F;
+}
