@@ -1,7 +1,7 @@
 /* QUERY MD */
 
 @media screen and ( min-width:767px ) {
-    .cg-top-jumbo .cg-container{
-        width: calc(100% / 3);
+    .cg-top-jumbo .container .cg-container{
+        width: 40%;
     }
 }

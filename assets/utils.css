@@ -1,7 +1,17 @@
+/* BUTTONS */
+
 .cg-btn{
     
     color: white;
     border-radius: 20px;
+}
+
+.cg-btn-orange{
+    background-color: #CD3D0F;
+}
+
+.cg-btn-blue{
+    background-color: #2D64E6;
 }
 
 .card{

@@ -23,18 +23,14 @@
     background-size: cover;
 }
 
-.cg-top-jumbo .cg-container{
+.cg-top-jumbo .container .cg-container{
     padding-top: 20%;
     padding-bottom: 10px;
     color: white;
 }
 
-.cg-top-jumbo .cg-container .container img{
+.cg-top-jumbo .container .cg-container img{
     width: 80%;
-}
-
-.cg-btn-orange{
-    background-color: #CD3D0F;
 }
 
 /* bottom */
