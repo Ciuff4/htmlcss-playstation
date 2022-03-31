@@ -56,6 +56,13 @@
 
 .cg-btn-white{
     background-color: white;
+    color: #161C3B;
+}
+
+.cg-btn-white:hover{
+    box-shadow: 0 0 0 -2px white,
+                    inset 0 0 0 1px black;
+    transition: all 0.2s;
 }
 
 /* /BUTTONS */
