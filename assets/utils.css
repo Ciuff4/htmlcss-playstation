@@ -7,12 +7,33 @@
     border-radius: 20px;
 }
 
+.cg-btn-black{
+    background-color: #363636;
+}
+
+.cg-btn-black:hover{
+    background-color: #5B636A;
+    color: white;
+    border: 3px double white !important ;
+    transition: all 0.2s;
+}
+
 .cg-btn-orange{
     background-color: #CD3D0F;
 }
 
+.cg-btn-orange:hover{
+    border: 3px double white !important ;
+    transition: all 0.2s;
+}
+
 .cg-btn-blue{
     background-color: #2D64E6;
+}
+
+.cg-btn-blue:hover{
+    border: 3px double white !important ;
+    transition: all 0.2s;
 }
 
 .cg-btn-gray{
