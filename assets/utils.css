@@ -31,6 +31,9 @@
     width: 50%;
 }
 
+.cg-color-gray{
+    color: #979797;
+}
 .bug{
     background-color: rgba(255, 0, 0, 0.356);
 }
