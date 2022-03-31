@@ -33,6 +33,12 @@ header{
     color: #177ED5 !important;
 }
 
+/* dropdown */
+
+.cg-play-menu-item :hover{
+    filter: drop-shadow( 4px grey);
+}
+
 /* JUMBOTRON */
 
 /* top */
