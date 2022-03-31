@@ -1,3 +1,9 @@
+/* GENERAL */
+
+ul li{
+    list-style: none;
+}
+
 /* HEADER */
 
 .cg-top-header{
@@ -129,3 +135,19 @@ header{
     color: white;
     background-color: #161C3B;
 }
+
+/* FOOTER */
+
+footer{
+    background-color: #00439C;
+    color: white;
+}
+
+.cg-language-globe{
+    height: 15px;
+}
+
+.cg-bottom-footer .container .cg-text-bottom-footer p span {
+    text-decoration: underline;
+}
+

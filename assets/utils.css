@@ -31,8 +31,9 @@
     margin-top: 20px;
 }
 
-.cg-col{
-    width: 50%;
+.cg-a{
+    text-decoration: none;
+    color: white;
 }
 
 .cg-color-gray{
