@@ -1,6 +1,12 @@
 /* QUERY LG */
 
-@media screen and ( min-width:991px ) {
+@media screen and ( min-width:992px ) {
+    .navbar-expand-lg .navbar-nav .dropdown-menu{
+        width: 100vw;
+        position: absolute;
+        left: -82px;
+        top: 55px;
+    }
     .cg-text-bottom-footer{
         width: 50%;
     }
