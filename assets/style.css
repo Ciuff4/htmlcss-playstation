@@ -125,3 +125,7 @@ header{
 
 /* PLAY-NOW */
 
+.cg-play-now{
+    color: white;
+    background-color: #161C3B;
+}
