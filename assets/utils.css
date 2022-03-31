@@ -14,7 +14,8 @@
 .cg-btn-black:hover{
     background-color: #5B636A;
     color: white;
-    border: 3px double white !important ;
+    box-shadow: 0 0 0 -2px #5B636A,
+                    inset 0 0 0 1px #fff;
     transition: all 0.2s;
 }
 
@@ -23,7 +24,9 @@
 }
 
 .cg-btn-orange:hover{
-    border: 3px double white !important ;
+    color: white;
+    box-shadow: 0 0 0 -2px #CD3D0F,
+                    inset 0 0 0 1px black;
     transition: all 0.2s;
 }
 
@@ -32,12 +35,23 @@
 }
 
 .cg-btn-blue:hover{
-    border: 3px double white !important ;
+    color: white;
+    box-shadow: 0 0 0 -2px #2D64E6,
+                    inset 0 0 0 1px #fff;
     transition: all 0.2s;
 }
 
 .cg-btn-gray{
     background-color: #D9DADC;
+}
+
+.cg-btn-gray:hover{
+    border: 1px solid #C7C5C5;
+    background-color: #DADBDC;
+    color: #2D64E6;
+    box-shadow: 0 0 0 -5px #C7C5C5,
+                    inset 0 0 0 1px #C7C5C5;
+    transition: all 0.2s;
 }
 
 .cg-btn-white{
